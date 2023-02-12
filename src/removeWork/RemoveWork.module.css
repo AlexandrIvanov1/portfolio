@@ -1,0 +1,16 @@
+.wrapper {
+    height: 30vh;
+    background-color: rgba(255,155,140,0.62);
+}
+
+.description {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.description button {
+    width: 100px;
+}

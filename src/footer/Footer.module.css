@@ -1,5 +1,4 @@
 .footer {
-    padding: 40px;
     background-color: rgba(0, 255, 20, 0.62);
 }
 
@@ -7,6 +6,7 @@
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
+    padding: 10px 0 10px 0;
 }
 
 .container h3 {
